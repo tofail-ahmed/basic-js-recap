@@ -5,6 +5,6 @@ var num4 = "20";
 const sum1 = typeof (num1 + num2);
 const sum2 = num1 * num2;
 
-console.log(sum1);
-console.log(sum2);
+// console.log(sum1);
+// console.log(sum2);
 
